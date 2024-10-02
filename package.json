@@ -1,0 +1,23 @@
+{
+  "name": "plugin-doc",
+  "version": "2.0.0",
+  "description": "自己的插件文档库",
+  "dependencies": {},
+  "devDependencies": {
+    "docsify": "^4.13.1",
+    "docsify-cli": "^4.4.4"
+  },
+  "scripts": {
+    "serve": "docsify serve ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tidys/plugin-docs-oneself.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tidys/plugin-docs-oneself/issues"
+  },
+  "homepage": "https://github.com/tidys/plugin-docs-oneself#readme"
+}
