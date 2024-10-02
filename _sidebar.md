@@ -1,5 +1,5 @@
 - [个人黑名单](./person/index.md)
-- [游戏公司黑名单](./company/index.md)
+- [游戏公司大礼包](./company/index.md)
   - [北京](./company/北京.md)
   - [上海](./company/上海.md)
   - [广州](./company/广州.md)
