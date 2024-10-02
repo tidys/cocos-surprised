@@ -1,7 +1,7 @@
 {
-  "name": "plugin-doc",
-  "version": "2.0.0",
-  "description": "自己的插件文档库",
+  "name": "CocosSurprised",
+  "version": "1.0.0",
+  "description": "Cocoser防骗指南",
   "dependencies": {},
   "devDependencies": {
     "docsify": "^4.13.1",
