@@ -8,7 +8,7 @@ PR格式参考：
 ```
 
 ## 微信：Economistshhh
-论坛各种发包，然后白嫖小白萌新
+论坛各种发包，然后白嫖小白萌新。
 
 ![](economistshhh.png)
 
